@@ -1,0 +1,24 @@
+table,th,td{
+    border: 2px solid black;
+   font-family: 'Ubuntu', sans-serif;
+   
+}
+
+table{
+    
+     border-spacing: 10px;
+}
+
+.jumbotronflight{
+    
+    background-image: url(../images/airticket.png);
+    height: 300px;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    border-style: none;
+    border-radius: 0px !important;
+    
+}
+.container p,.container b,.container ol li{
+    color:#f2b91f; 
+}
